@@ -1,0 +1,7 @@
+pruebas/
+# Archivos de simulación
+*.vcd
+# Ejecutables de Icarus
+sim
+simulacion
+simulacion_*
